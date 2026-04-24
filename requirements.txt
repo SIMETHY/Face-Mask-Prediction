@@ -1,6 +1,11 @@
 streamlit
-scikit-learn
+tensorflow
 numpy
 matplotlib
 pandas
 seaborn
+opencv-python
+Pillow
+scikit-learn
+imutils
+keras
