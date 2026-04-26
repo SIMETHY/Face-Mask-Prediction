@@ -204,11 +204,3 @@ if uploaded_file is not None:
     if show_debug:
         st.write(prediction)
 
-# -------------------------------
-# Footer
-# -------------------------------
-st.markdown("""
-<div class="footer">
-    Made with ❤️ using Streamlit
-</div>
-""", unsafe_allow_html=True)
